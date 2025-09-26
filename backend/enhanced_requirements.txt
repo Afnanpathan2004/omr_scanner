@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+streamlit
+opencv-python
+numpy
+pillow
+pytesseract
+reportlab
+pandas
+python-dateutil
+easyocr
